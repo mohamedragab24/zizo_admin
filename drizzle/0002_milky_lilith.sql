@@ -1,0 +1,1 @@
+ALTER TABLE `salon_settings` ADD `firstAdminOpenId` varchar(64);
